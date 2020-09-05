@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MAUCW News</string>
+    <string name="headlines">Headlines</string>
+    <string name="pull_down_to_refresh"><i>Pull down to refresh...</i></string>
+    <string name="maucw_news"><b>MaUCW News</b></string>
+    <string name="no_news"><i>No News...</i></string>
+
+    <string-array name="news">
+        <item>Headlines</item>
+        <item>Sports</item>
+        <item>Science</item>
+        <item>Technology</item>
+        <item>Entertainment</item>
+        <item>Health</item>
+        <item>Business</item>
+    </string-array>
+</resources>
